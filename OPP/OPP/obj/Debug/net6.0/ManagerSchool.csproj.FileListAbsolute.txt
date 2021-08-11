@@ -1,0 +1,15 @@
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.csproj.AssemblyReference.cache
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.AssemblyInfoInputs.cache
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.AssemblyInfo.cs
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.csproj.CoreCompileInputs.cache
+C:\Users\duykh\source\repos\OPP\OPP\bin\Debug\net6.0\ManagerSchool.exe
+C:\Users\duykh\source\repos\OPP\OPP\bin\Debug\net6.0\ManagerSchool.deps.json
+C:\Users\duykh\source\repos\OPP\OPP\bin\Debug\net6.0\ManagerSchool.runtimeconfig.json
+C:\Users\duykh\source\repos\OPP\OPP\bin\Debug\net6.0\ManagerSchool.dll
+C:\Users\duykh\source\repos\OPP\OPP\bin\Debug\net6.0\ref\ManagerSchool.dll
+C:\Users\duykh\source\repos\OPP\OPP\bin\Debug\net6.0\ManagerSchool.pdb
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.dll
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ref\ManagerSchool.dll
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.pdb
+C:\Users\duykh\source\repos\OPP\OPP\obj\Debug\net6.0\ManagerSchool.genruntimeconfig.cache
